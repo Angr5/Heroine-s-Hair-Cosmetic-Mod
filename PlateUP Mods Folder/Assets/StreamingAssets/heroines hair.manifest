@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1027463585
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 802a3f9c94693eb5b3cef370814d11d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 08ad536c959962c3a8a86ea628d68edc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 802a3f9c94693eb5b3cef370814d11d0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/PlateUP Mods Folder/Heroines Hair/Asset Bundle/Heroines Hair.prefab
+Dependencies: []
